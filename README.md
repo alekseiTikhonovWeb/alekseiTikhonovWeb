@@ -68,6 +68,3 @@
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alekseitikhonovweb&show_icons=true&locale=en&layout=compact" alt="alekseitikhonovweb" /></p>
-
