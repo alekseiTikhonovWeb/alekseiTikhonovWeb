@@ -7,8 +7,6 @@
 
 - 🤝 I'm open to **junior / mid full-stack web developer roles & freelance projects**
 
-- 💼 Portfolio [https://studio.wasd.digital/](https://studio.wasd.digital/)
-
 - 💬 Ask me about **JavaScript, React, full-stack web development**
 
 - 📫 How to reach me **tikhonovfca@gmail.com**
@@ -22,7 +20,7 @@
 
 ### 🚀 Featured Projects
 
-**Qazan** — restaurant website  
+**Qazan** — Restaurant Website  
 🔗 [qazan.fi](https://qazan.fi)
 
 **MNCYN** — Next.js website (work in progress)  
