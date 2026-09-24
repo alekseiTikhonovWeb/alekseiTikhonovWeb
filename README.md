@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **tikhonovfca@gmail.com**
 
-- 📄 Resume [https://docs.google.com/document/d/1On3HT8ECUNCiE0Xy-ove6PYZrUadbhePi2unwROx4qs/edit?usp=sharing](https://docs.google.com/document/d/1On3HT8ECUNCiE0Xy-ove6PYZrUadbhePi2unwROx4qs/edit?usp=sharing)
+- 📄 Resume [https://docs.google.com/document/d/1yJvzLvDSJJpBk8LslvzCAU7mfaGK8T1cLDg40Z8UIls/edit?usp=sharing](https://docs.google.com/document/d/1yJvzLvDSJJpBk8LslvzCAU7mfaGK8T1cLDg40Z8UIls/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
